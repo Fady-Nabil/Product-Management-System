@@ -1,0 +1,15 @@
+E:\interview-tasks\Exceed\ShopWebApp.Core\bin\Debug\net5.0\ShopWebApp.Core.deps.json
+E:\interview-tasks\Exceed\ShopWebApp.Core\bin\Debug\net5.0\ShopWebApp.Core.runtimeconfig.json
+E:\interview-tasks\Exceed\ShopWebApp.Core\bin\Debug\net5.0\ShopWebApp.Core.runtimeconfig.dev.json
+E:\interview-tasks\Exceed\ShopWebApp.Core\bin\Debug\net5.0\ShopWebApp.Core.dll
+E:\interview-tasks\Exceed\ShopWebApp.Core\bin\Debug\net5.0\ShopWebApp.Core.pdb
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.csproj.AssemblyReference.cache
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.AssemblyInfoInputs.cache
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.AssemblyInfo.cs
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.csproj.CoreCompileInputs.cache
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.dll
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\refint\ShopWebApp.Core.dll
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.pdb
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ShopWebApp.Core.genruntimeconfig.cache
+E:\interview-tasks\Exceed\ShopWebApp.Core\obj\Debug\net5.0\ref\ShopWebApp.Core.dll
